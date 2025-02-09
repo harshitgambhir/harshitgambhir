@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey there, I'm Harshit! 👋🏻
 
-<!--
-**harshitgambhir/harshitgambhir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Frontend Software Engineer | Web Enthusiast  
 
-Here are some ideas to get you started:
+🌟 I love building user interfaces that are easy to use and look great.  
+💬 Let’s talk about **React**, **Next.js**, **JavaScript**, **CSS**, **UI/UX Design**, or anything web-related!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### You can reach me here 🌎
+🏡 [Portfolio][website] **|** 
+👔 [LinkedIn][linkedin]
+
+
+[website]: https://www.harshitgambhir.com/  
+[linkedin]: https://www.linkedin.com/in/harshit-gambhir-b16a04280/
